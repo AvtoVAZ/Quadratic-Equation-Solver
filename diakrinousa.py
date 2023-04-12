@@ -20,5 +20,7 @@ else:
     if diakrinousa > 0:
         print("x1 = ", x1_bigger0)
         print("x2 = ", x2_bigger0)
+#Made by Avtovaz
+#My GitHub: https://github.com/AvtoVAZ
 
 
